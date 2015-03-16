@@ -1,0 +1,18 @@
+GitHub download project
+=======================
+https://github.com/udacity/frontend-nanodegree-arcade-game
+
+Web sites for reference
+=======================
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+
+javascript basic
+================
+http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1
+http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+http://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
+http://www.htmlgoodies.com/beyond/javascript/events-and-javascript-part-3-the-event-object.html
