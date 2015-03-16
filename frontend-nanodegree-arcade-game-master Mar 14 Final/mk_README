@@ -1,0 +1,16 @@
+frontend-nanodegree-arcade-game
+===============================
+
+Project 3 - Frogger game
+========================
+
+Player needs to move from grass level up to water level on top in order to win.
+
+Movement can be made by pressing and releasing the UP, DOWN, LEFT, or RIGHT arrow keys 
+on the keyboard accordingly.  
+
+If player collided with enemy-bug, player will return to its initial position.
+
+Once the player reached the top water level, a message will be displayed and the game can be 
+restarted by clicking anywhere on the page.
+
